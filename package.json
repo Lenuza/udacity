@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lenuza/udacity/issues"
   },
-  "homepage": "https://github.com/Lenuza/udacity#readme"
+  "homepage": "https://github.com/Lenuza/udacity#readme",
+  "dependencies": {
+    "local-web-server": "^2.4.0"
+  }
 }
